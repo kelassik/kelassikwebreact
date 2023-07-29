@@ -1,0 +1,12 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Sosmed">
+<circle id="Ellipse 8" cx="28" cy="28" r="28" fill="url(#paint0_linear_328_1150)"/>
+<path id="Telegram" d="M38 16L14.291 26.2478C13.4629 26.6058 13.4948 27.7908 14.3409 28.1037L18.7357 29.7287C19.0348 29.8394 19.2633 30.0861 19.3506 30.3929L21.0495 36.3608C21.2522 37.0728 22.1314 37.3254 22.6811 36.8296L25.5016 34.2857M38 16L33.9147 38.4621C33.7841 39.1802 32.9532 39.521 32.356 39.1014L25.5016 34.2857M38 16L23.0763 31.1588C22.6428 31.5991 22.7084 32.3234 23.2141 32.6786L25.5016 34.2857" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_328_1150" x1="56" y1="28.0681" x2="-1.30175" y2="28.0681" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE599"/>
+<stop offset="1" stop-color="#F4A93F"/>
+</linearGradient>
+</defs>
+</svg>
